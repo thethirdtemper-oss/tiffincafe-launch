@@ -1,0 +1,39 @@
+/* TEAM */
+
+Project Name:
+TiffinCafe.com
+
+Brand:
+The Third Temper
+
+Platform:
+AUREX Intelligent Dining Platform
+
+Project Founder:
+The Third Temper
+
+Development:
+AUREX Engineering Division
+
+Deployment:
+GitHub + Cloudflare Pages
+
+Communication:
+info@tiffincafe.com
+
+Digital Butler:
+butler@tiffincafe.com
+
+Location:
+Amritsar, Punjab, India
+
+-----------------------------------
+
+"Extinct Kitchens
+ Ancient Recipes
+ Modern Tastes."
+
+-----------------------------------
+
+© The Third Temper
+All Rights Reserved.

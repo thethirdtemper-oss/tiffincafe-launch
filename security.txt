@@ -1,0 +1,13 @@
+Contact: mailto:info@tiffincafe.com
+
+Expires: 2027-12-31T23:59:59Z
+
+Preferred-Languages: en, pa, hi
+
+Canonical: https://tiffincafe.com/.well-known/security.txt
+
+Policy: https://tiffincafe.com/privacy.html
+
+Hiring: https://tiffincafe.com
+
+Acknowledgments: https://tiffincafe.com
