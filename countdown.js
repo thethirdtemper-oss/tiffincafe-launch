@@ -1,5 +1,5 @@
 // Launch Date
-const launchDate = new Date("September 04, 2026 11:30:00 GMT+0530").getTime();
+const launchDate = new Date("September 10, 2026 11:30:00 GMT+0530").getTime();
 
 function updateCountdown() {
 
